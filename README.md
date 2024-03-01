@@ -4,7 +4,7 @@
 
 - Penetration Tester
 - WebApplication Pentest.
-- 📫 How to reach me: [anishbashnet@gmail.com].
+- 📫 How to reach me: (anishbashnet@gmail.com).
 
 ## Skills
 
