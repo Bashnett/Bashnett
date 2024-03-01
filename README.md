@@ -6,11 +6,6 @@
 - WebApplication Pentest.
 - 📫 How to reach me: anishbashnet@gmail.com
 
-## Skills
-
-- Programming Languages: [List of Programming Languages]
-- Technologies/Frameworks: [List of Technologies/Frameworks]
-
 ## Projects
 
 Here are some of the projects I've worked on:
