@@ -1,4 +1,4 @@
-# Hi 👋, I am Anish 
+# Hi, I am Anish 
 
 ## About Me
 
