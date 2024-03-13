@@ -1,5 +1,7 @@
 # Hi, I am Anish 
 
+Penteration Tester
+
 ## About Me
 
 - Penetration Tester
@@ -18,6 +20,8 @@ Here are some of the projects I've worked on:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Java" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/linux/linux-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/mysql/mysql-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
 ## Connect with Me
