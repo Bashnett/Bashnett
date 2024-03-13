@@ -28,5 +28,5 @@ Here are some of the projects I've worked on:
 
 ## Connect with Me
 
-<a href="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg"></a>
+<a href="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg"/></a>
 
