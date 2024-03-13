@@ -28,5 +28,5 @@ Here are some of the projects I've worked on:
 
 ## Connect with Me
 
-<a href="https://www.linkedin.com/anish36"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="linkedin" alt="linkedin" width="140" height="140" /></a>
+<a href="https://www.linkedin.com/anish36"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="90" height="90" /></a>
 
