@@ -4,10 +4,10 @@
 
 ## About Me
 
-- I am Penetration tester focusing mostly on Web-Application and Network system.
+- I am Penetration tester focusing mostly on Web-Application and Network systems.
 &nbsp;
   
-- 📫 How to reach me: anishbashnet@gmail.com
+- 📫 How to reach me: nishanbasnet3636@gmail.com
 &nbsp;
 ## Projects
 
